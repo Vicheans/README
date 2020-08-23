@@ -1,4 +1,4 @@
-Hi 👋, I'm Victor, a freelance developer based in Nigeria, specialized in React and ReactNative.
+Hi 👋, I'm Victor, a freelance developer based in Nigeria, specialized in MongoDB, ExpressJs, React and ReactNative.
 
 I've been a React early-adopter, since September 2019.
 
