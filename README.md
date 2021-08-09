@@ -1,31 +1,43 @@
-Hi 👋, I'm Victor, a freelance developer based in Nigeria, specialized in MongoDB, ExpressJs, React and ReactNative.
+## Hi there 👋, I'm Victor Olateju
+### Design, Development and DevOps
+![Design, Development and DevOps](https://res.cloudinary.com/brainballer/image/upload/v1628528863/Victor_Olateju_hkkucz.png)
 
-I've been a React early-adopter, since September 2019.
+I'm Victor from Nigeria, a Biomedical engineer and a Full-Stack Web Developer. I have hands-on experience with a variety of web technologies such as Perl, PHP, Java, Python, Javascript, MySQL and MongoDB, however I love working with Javascript as it allows for the development of Full-Stack applications in a single language, preferably the MERN + GraphQl stack.
+I enjoy learning new languages and frameworks like React, Django etc, spending less time on Social media because I spend most of my time programming. Hey! I'm not anti-social, though an Introvert, I think I have a Twitter page for the record. :)
 
-I’m currently working on Fun School Portal, a React-Gatsby-based static site generator with a focus on experience.
+### Projects / Examples of Work
 
-I like:
+- https://brainballer.com : a reward oriented quiz platform 
+- https://salty-oasis-64205.herokuapp.com/ : a Voice and keyboard operated web application for the visually impaireds
+- http://serene-journey-28331.herokuapp.com/ : a listing web application for a multimedia company
+- http://eksuth-ard.herokuapp.com/ : a health organization website
+- https://ghcadoekiti.org - areligious body official website
+- https://fierce-plateau-06047.herokuapp.com : a score prediction machine learning model
 
-remote work: since 2019
-flexibility and Trust: 
-I work for people that care about outcomes
-interesting Projects: 
-I choose carefully, to keep learning
-Part-time: 
-working on more projects gives a broad experience
-consulting, coaching, training, audits: 
-The best ROI for my customers, and a higher rate for me
-I'm on a path that's wholesomely different than most Nigerian contractors (on-site, full-time, multi-years contracts).
 
-Currently, I'm available for hire, I can also work remotely as I've handled a coupled of Projects for clients I never got to meet in Person :)
+### Skills
+- REACT 
+- PHP 
+- JS, HTML, CSS 
+- PYTHON
 
-Content creation
-Despite a large experience of the whole React ecosystem, I didn't produce much content between 2015 and 2020.
+- 🔭 I’m currently working brainballer.com 
+- 📫 How to reach me: victorolateju8@gmail.com 
+- 😄 Pronouns: Christianovik, Him, He, VIcheans 
 
-Lately, I'm working on putting out Helpful Contents, to write more, and to follow the Learn In Public mantra.
 
-For now the platform I focus on the most is Twitter, and I'm also hoping to Improve my LinkedIn reach.
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Vicheans)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/victor-daniel-olateju-7a629116a//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/victor.olateju.90)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/_Vicheans?s=09)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/11484914/vicheans)  
 
-I'm also trying to find a good workflow to produce more detailed blog posts, and content for The Tech Community and also to reach a broader audience.
+[![trophy](https://github-profile-trophy.vercel.app/?username=Vicheans)](https://github.com/vicheans/github-profile-trophy)
 
-With time I do to Impact a lot of Lives as I've Imagined :)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vicheans)](https://github.com/vicheans/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Vicheans&show_icons=true&count_private=true)  
+
+<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Vicheans)   -->
+
+![GitHub metrics](https://metrics.lecoq.io/Vicheans)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Vicheans)  
+
+![Profile views](https://gpvc.arturio.dev/Vicheans)  
